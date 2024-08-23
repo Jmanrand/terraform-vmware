@@ -7,5 +7,5 @@ provider "vsphere" {
 
 provider "aws" {
   region = "us-east-2"
-  profile = "jrand"
+  profile = "jmanrand"
 }
